@@ -17,6 +17,7 @@ public static void main(String[] args) {
 	str=str.substring(str1.length());
 	System.out.println("after swapping :"+str);
 	System.out.println("after swapping :"+str1);
+	System.out.println("ROHINI MASKE");
 	
 }
 }
